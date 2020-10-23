@@ -1,0 +1,12 @@
+{
+  "name": "homesearch",
+  "displayName": "homesearch",
+  "expo": {
+    "name": "homesearch",
+    "slug": "homesearch",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
